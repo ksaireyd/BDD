@@ -1,0 +1,5 @@
+business/MessageActions.class
+pages/HomePage.class
+pages/BasePage.class
+pages/LoginPage.class
+business/AuthActions.class
